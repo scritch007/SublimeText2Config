@@ -59,10 +59,14 @@
 			},
 			"file_history":
 			[
+				"/home/blegrand/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/blegrand/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/blegrand/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+				"/home/blegrand/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -76,6 +80,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"vintage",
+					"insert",
+					"vinta"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -216,7 +223,7 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 150.0,
